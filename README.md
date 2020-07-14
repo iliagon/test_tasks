@@ -1,4 +1,4 @@
-# test_tasks
+# Test task
 
 You have to write a java method which consumes 2 string params. 
 The first one is an arbitrary string, e.g. "Azcba1" The second one is an arbitrary alphabet, e.g. "123AaBbCcZz". 
